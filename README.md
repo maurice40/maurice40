@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Maurice M.
+- 👋 Hi, I’m Maurice ✨.
 - 👀 I’m interested in Software Development and Quality Assurance
 - 📫 Email me on musabirema@gmail.com
 
